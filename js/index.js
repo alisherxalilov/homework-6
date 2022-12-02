@@ -7,10 +7,10 @@ else alert("armiyaga qa'bul qilinmadingiz")
 
 
 
-let c=prompt("hozirgi vaqtni kiriting fr(0800")
-if(c<08){
-    alert("darsga kechikmadingiz")
-}
-else{
-    alert("darsga kechikdingiz")
-}
+// let c=prompt("hozirgi vaqtni kiriting fr(0800")
+// if(c<08){
+//     alert("darsga kechikmadingiz")
+// }
+// else{
+//     alert("darsga kechikdingiz")
+// }
